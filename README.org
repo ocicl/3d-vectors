@@ -4,6 +4,6 @@ A library for 2D, 3D, and 4D vectors in CL.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/Shinmera/3d-vectors.git |
-| commit  | 03e6a37                                        |
+| commit  | 82d694e                                        |
 | systems | 3d-vectors                                     |
 |---------+------------------------------------------------|
